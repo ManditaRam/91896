@@ -1,6 +1,10 @@
 #Version 3
 #Date:23/07/2024
 #Author: Mandita 
+import tkinter
+from tkinter import ttk
+from tkinter import*
+import random
 window = tkinter.Tk()
 window.title("Julies Party Store")
 
